@@ -1,6 +1,6 @@
 # TEDx NITK Surathkal Websites Talk Archive Page
 
-Welcome to the TED^X NITK Surathkal Websites Talk Archive Page repository! This project is a frontend web page designed to archive and showcase talks and presentations from various events held at NITK Surathkal. The page is crafted with creativity and aims to provide an engaging and seamless user experience.
+Welcome to the TEDx NITK Surathkal Websites Talk Archive Page repository! This project is a front-end web page designed to archive and showcase talks and presentations from various events held at NITK Surathkal. The page is crafted with creativity and aims to provide an engaging and seamless user experience.
 
 ## Features
 
@@ -21,4 +21,4 @@ To view the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/tedx-nitk-talk-archive.git
+   git clone https://github.com/Annapurna-Jadhav/tedx.git
